@@ -6,6 +6,9 @@
 <body>
 	<p>
 		jim est le plus beau
+		<form>
+			<input value="test"/>
+		</form>
 	</p>
 </body>
 </html>
