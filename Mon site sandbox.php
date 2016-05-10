@@ -5,7 +5,7 @@
 </head>
 <body>
 	<p>
-		seb est le plus beau
+		jim est le plus beau
 	</p>
 </body>
 </html>
