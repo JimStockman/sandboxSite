@@ -6,6 +6,6 @@
 	</title>
 </head>
 <body>
-	<a href="bonjour.php?nom=Stockman&amp;prenom=Bill">Wesh brooo !</a>
+	<a href="bonjour.php?nom=Jim&amp;prenom=Bill">Wesh brooo !</a>
 </body>
 </html>
