@@ -1,11 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>test_MySQL</title>
-</head>
-<body>
-
 <?php
 
 try
@@ -40,6 +32,3 @@ while ($donnees = $reponse->fetch())
 $reponse->closeCursor();
 
 ?>
-</body>
-
-</html>
